@@ -1,4 +1,4 @@
-__Student:__ Dallas Plunkett\
+Dallas Plunkett\
 __Email:__ [dmplunkett@ucsd.edu](dmplunkett@ucsd.edu)
 
 __Section:__ B21\
